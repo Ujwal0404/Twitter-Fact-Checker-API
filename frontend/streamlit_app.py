@@ -113,7 +113,7 @@ def main():
     st.markdown("""
         <div style='text-align: center'>
             <p>Made with ❤️ by Your Name | 
-            <a href="https://github.com/yourusername/truthtracker">GitHub</a></p>
+            <a href="https://github.com/Ujwal0404/Twitter-Fact-Checker-Agent">GitHub</a></p>
         </div>
     """, unsafe_allow_html=True)
 
