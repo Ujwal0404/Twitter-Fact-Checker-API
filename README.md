@@ -143,24 +143,6 @@ fact_checker/
 | CACHE_TTL | Cache time-to-live in seconds | No |
 | MAX_WORKERS | Maximum worker threads | No |
 
-## 🛠️ Development
-
-### Running Tests
-```bash
-pytest tests/
-```
-
-### Code Style
-```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run linter
-flake8 app/
-
-# Run type checker
-mypy app/
-```
 
 ## 🤝 Contributing
 
